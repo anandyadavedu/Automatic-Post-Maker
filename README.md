@@ -1,2 +1,2 @@
-# Instagram-Post-Maker
+# Automatic-Post-Maker
 Web Scrapping Project
